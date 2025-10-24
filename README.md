@@ -3,3 +3,9 @@ This is officially my first game, using Pygame
 
 In this game, you enter the number of seconds you want to play and then you have to find the invisible block just by your INTUITION !.
 Your highscore will be recorded and displayed !
+
+
+
+                                                                                                     Ill be great one day
+                                                                                                     Tan
+                                                                                                     
